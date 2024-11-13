@@ -10,5 +10,5 @@ ChatGPT, Leonardo AI, Eleven Labs e D-ID.
 Inicialmente utilizei o ChatGPT para a geração do texto e o Leonardo AI para a criação da imagem. Posteriormente, gerei o áudio no Eleven Labs e, finalmente, o vídeo foi criado utilizando o D-ID.
 
 ## 🚀 Resultados
-Link do vídeo aqui.
+Link do vídeo: https://github.com/ledantas/lab-natty-or-not/blob/main/Video%20Dom%20Pedro%20II.mp4
 
